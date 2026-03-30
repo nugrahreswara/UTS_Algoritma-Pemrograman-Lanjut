@@ -44,7 +44,7 @@ Pencarian data dilakukan dengan berbagai teknik:
 1.  Pastikan Anda memiliki compiler C++ (seperti MinGW untuk Windows).
 2.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+    git clone https://github.com/nugrahreswara/UTS_Algoritma-Pemrograman-Lanjut.git
     ```
 3.  Lakukan kompilasi:
     ```bash
